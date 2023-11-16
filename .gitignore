@@ -1,0 +1,28 @@
+# Ignore Node Modules
+node_modules/
+
+# Ignore Build/Compiled Files
+build/
+dist/
+*.bundle.js
+*.bundle.js.map
+
+# Ignore Environment Files
+.env
+.env.local
+
+# Ignore IDE/Editor Files
+.idea/
+.vscode/
+
+# Ignore Logs and Temporary Files
+*.log
+.log/
+
+# Ignore Dependency Lock Files
+package-lock.json
+yarn.lock
+
+# Ignore User-specific files
+.DS_Store
+Thumbs.db

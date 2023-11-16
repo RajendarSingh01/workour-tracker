@@ -1,0 +1,44 @@
+{"rev":[
+    {
+        "id":"1",
+        "name": "Emily Johnson",
+        "img":"https://images.unsplash.com/photo-1534751516642-a1af1ef26a56?auto=format&fit=crop&q=80&w=1889&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "review":"Smart Gym Guide is a game-changer for me. The personalized workout plans are tailored to my needs, and the intelligent tracking system keeps me motivated. I appreciate the smart nutrition tips that help me make healthier food choices. This app has transformed my fitness routine!",
+        "stars":5
+    },
+    {
+        "id":"2",
+        "name": "Michael Davis",
+        "img":"https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&q=80&w=1887&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "review":" I can't praise Smart Gym Guide enough. It's like having a fitness expert in my pocket. The smart workout recommendations are spot-on, and the progress tracking feature helps me see my improvements. The app's simplicity and effectiveness make it a standout choice. I'm seeing real results, and I love it!",
+        "stars":5
+    },
+    {
+        "id":"3",
+        "name": "Sarah Wilson",
+        "img":"https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "review":"Smart Gym Guide has made staying fit a breeze. The user-friendly interface and smart workout plans make my gym sessions enjoyable. The app's intelligent approach ensures I'm always challenged but never overwhelmed. The nutrition tips are an added bonus. I highly recommend it to anyone serious about fitness!",
+        "stars":5
+    },
+    {
+        "id":"4",
+        "name": "Brian Thompson",
+        "img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=1887&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "review":"Smart Gym Guide is a lifesaver. It keeps me accountable with its smart reminders, and the workouts are diverse and engaging. The progress tracking feature has motivated me to push my limits. I've never felt this good about my fitness journey. Smart Gym Guide gets five stars from me!",
+        "stars":4
+    },
+    {
+        "id":"5",
+        "name": "Jessica Miller",
+        "img":"https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=1887&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "review":"Smart Gym Guide has revolutionized the way I approach fitness. The intelligent workout plans are challenging yet doable, and the app's guidance has transformed my body. The daily reminders ensure I never miss a workout or meal. I'm healthier, fitter, and happier, all thanks to this amazing app!",
+        "stars":4.5
+    },
+    {
+        "id":"6",
+        "name": "Christopher Evans",
+        "img":"https://plus.unsplash.com/premium_photo-1663040472837-4d2051b93735?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "review":"Its intelligent approach to fitness planning has brought structure and effectiveness to my workouts. The smart recommendations, coupled with detailed progress tracking, make my fitness journey transparent and rewarding. I appreciate the app's dedication to my goals. Thank you for making fitness smart and achievable!",
+        "stars":5
+    }
+]}
