@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/workour-tracker/static/css/main.cd452ed1.css",
+    "main.js": "/workour-tracker/static/js/main.8828a6cd.js",
+    "static/media/banner.png": "/workour-tracker/static/media/banner.5209b5e92a864ca0c615.png",
+    "static/media/gym-slider.png": "/workour-tracker/static/media/gym-slider.a5b56b41d099442c244e.png",
+    "index.html": "/workour-tracker/index.html",
+    "main.cd452ed1.css.map": "/workour-tracker/static/css/main.cd452ed1.css.map",
+    "main.8828a6cd.js.map": "/workour-tracker/static/js/main.8828a6cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd452ed1.css",
+    "static/js/main.8828a6cd.js"
+  ]
+}
